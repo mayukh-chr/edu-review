@@ -1,3 +1,0 @@
-streamlit
-pandas
-transformers.AutoTokenizer, T5ForConditionalGeneration
